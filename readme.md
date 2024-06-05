@@ -30,7 +30,7 @@ Para construir nossa landing page, utilizamos as seguintes tecnologias:
    - Abra o arquivo `index.html` em seu navegador web para visualizar a landing page.
 
 2. **Visualização Online**:
-   - Acesse [PetParent](https://davinicoletto.github.io/pure-css-site/) para ver a landing page online.
+   - Acesse [PetParent](https://davinicoletto.github.io/pet-parent-landing-page/) para ver a landing page online.
 
 ### Contribuição
 
